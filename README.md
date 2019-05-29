@@ -1,3 +1,10 @@
+# My Robofriends App
+
+This app uses all the basics for creating React apps.
+
+
+--------------------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
